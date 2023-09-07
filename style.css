@@ -3,7 +3,13 @@
     border: none;
     border-radius: 20%;
 }
-
+.btn-know{
+  color: white;
+  background-color: #149ddd;
+  border: none;
+  border-radius: 5px;
+  padding: 0.5em;
+}
 /* Welcome animation */
 
 #spin {

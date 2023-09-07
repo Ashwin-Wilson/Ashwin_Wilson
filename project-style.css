@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+header{
+    font-size: 1rem;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 0.5em;
+    color: #149ddd;
+    display: grid;
+    justify-content: center;
+}
+section{
+    display: grid;
+    justify-content: center;
+    padding-top: 2rem;
+    height: 100vh;
+}
+.btn{
+    font-size: 3rem;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0.5em;
+    color: #fff;
+    border-radius: 5px;
+    background-color: #149ddd;
+}
